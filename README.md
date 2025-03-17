@@ -1,1 +1,1 @@
-# postgreOdev1
+###Turkstudentco’ postgre ödevleri
